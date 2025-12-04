@@ -1,0 +1,80 @@
+=== 2025-11-21 12:16:03 ========================================================
+redumper (build: b664)
+warning: drive not found in the database
+
+arguments: --verbose
+
+drive path: F:
+drive: HL-DT-ST - DVDRW GX50N (revision level: RR06, vendor specific: B040303 KZBZBT44512)
+drive configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+drive read speed: <optimal>
+
+current profile: DVD-ROM
+disc type: DVD
+
+image path: .
+image name: dump_251121_121603_F
+
+*** DUMP
+
+disc structure:
+  layer 0 { embossed }
+    data { LBA: [196608 .. 2442111], length: 2245504, hLBA: [0x030000 .. 0x25437F] }
+    book type: DVD-ROM
+    part version: 1
+    disc size: 120mm
+    maximum rate: 10.08 mbps
+    layers count: 1
+    track path: parallel
+    linear density: 0.267 um/bit
+    track density: 0.74 um/track
+    BCA: no
+
+                                                     
+
+media errors: 
+  SCSI: 0
+
+*** DUMP::EXTRA (time check: 1160s)
+
+
+*** PROTECTION
+
+
+*** REFINE
+
+
+*** DVDKEY
+
+copyright: 
+  protection system type: <none>
+  region management information: 1 2 3 4 5 6 7 8
+
+*** SPLIT
+
+
+*** HASH
+
+dat:
+<rom name="dump_251121_121603_F.iso" size="4598792192" crc="5a0b02bc" md5="7be5d6faddbe6e118436682bd873a8ef" sha1="8ece95076c66d6d14de1acd7c2867264ce52838b" />
+
+*** INFO
+
+ISO9660 [dump_251121_121603_F.iso]:
+  volume identifier: FINAL_FANTASY_X
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 32 30 32 30 36 31 38 31  30 30 30 30 30 24 30 30   2020618100000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+PS2 [dump_251121_121603_F.iso]:
+  EXE: SCES_504.91
+  EXE date: 2002-01-25
+  version: 1.00
+  serial: SCES-50491
+  region: Europe
+
+*** END

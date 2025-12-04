@@ -1,4 +1,4 @@
-﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
 Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
 If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
 
@@ -31,7 +31,7 @@ Label Side Toolstamp or Mastering Code (engraved/stamped): I14
 	Error Count: 0
 	Comments:
 
-<b>Logs Link</b>: [Please provide a link to your logs here]
+<b>Logs Link</b>: https://github.com/CheesecakePoet/redump/tree/1df02d77824c9fb74191deb56fe7727258c7cb24/PS2/SCES-50491
 <b>Disc ID</b>: 9468622
 [T:ISN] SCES-50491
 [T:VOL] FINAL_FANTASY_X
